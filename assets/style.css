@@ -1,3 +1,9 @@
 body {
     background-color: darkblue;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    bottom: 0;
+}
