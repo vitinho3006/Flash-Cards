@@ -3,7 +3,14 @@ body {
     font-family: Bai Jamjuree;
 }
 
+#container {
+    display: fex;
+}
 footer {
+
+.cartao {
+margin: 1rem 1rem;
+    }
     background-color: black;
     color: white;
     position: fixed;
